@@ -1,5 +1,9 @@
 # keepalive
 
+## vue  keep-alive 实践
+
+A,B,C 三个页面，A->B->A时，A页面不刷新；A->C->A时，A页面刷新
+
 ## Project setup
 ```
 npm install
